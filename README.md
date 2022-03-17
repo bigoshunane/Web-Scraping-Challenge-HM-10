@@ -2,14 +2,14 @@
 
 # Mission to Mars
 
-The main objective of this project is to develop web application that scrapes different websites to grap the latest information, news headlines and images of planet Mars and display the information gathered in a single responsive HTML web page. 
+The main objective of this project is to develop web application that scrapes different websites to grap the latest information, news headlines and images of planet Mars and display the information gathered in a single responsive HTML webpage. 
 
 
 # Technologies used:
 
 . Beautiful soup and splinter for scraping the target data from given websites.
 
-. HTML and Bootstrap (CSS) for designing and styling the web page.
+. HTML and Bootstrap (CSS) for designing and styling the webpage.
 
 . Flask for building the web application.
 
