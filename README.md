@@ -51,7 +51,7 @@ The main objective of this project is to develop web application that scrapes di
    
 ![index](https://user-images.githubusercontent.com/84547558/158883279-589d0a02-fee4-41bf-b241-f80e32175ea0.png)
 
-Final dashboard with information.
+Final dashboard with Mars Facts information.
 
 
 ![dd](https://user-images.githubusercontent.com/84547558/158882647-8e4c2ddb-bc6e-4d44-9c03-6985b8a15c0a.png)
