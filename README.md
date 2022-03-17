@@ -36,14 +36,14 @@ The main objective of this project is to develop web application that scrapes di
 2. scrape_mars.py: Python script that uses the parsing methods from the Jupyter Notebook that returns a dictionary object to be inserted into 
    MongoDB. The script is in the repository.
    
- <img width="852" alt="sc" src="https://user-images.githubusercontent.com/84547558/158767116-61c14092-46c2-42bc-8f7b-b732f4d4805a.png">
+![ff](https://user-images.githubusercontent.com/84547558/158883000-456fd56d-37b3-4e22-8f5f-5e6dac95206b.png)
 
    
 
 3. app.py: Python Flask app that loads the Index.html as a template and runs the scrape_mars.py parsing script and loads the parsed info through
    MongoDB to be used by the template. The script is in the repository.
 
-![app](https://user-images.githubusercontent.com/84547558/158767394-292c1574-12fb-43cf-a28e-10820917325c.png)
+![app](https://user-images.githubusercontent.com/84547558/158883058-08222389-9a10-4aa2-9004-a53a598a9478.png)
 
 
 4. Index.html: HTML page that displays the information parsed through various Mars websites and creates a dashboard of information.
