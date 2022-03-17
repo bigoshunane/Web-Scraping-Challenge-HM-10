@@ -30,14 +30,27 @@ The main objective of this project is to develop web application that scrapes di
 
 1. mission_to_mars.ipynb: Jupyter Notebook that performs the initial scraping of each site. The script is in repository.
 
+![dd](https://user-images.githubusercontent.com/84547558/158766829-8395d10a-ae1e-4cd2-9eb3-63ae6db5af70.png)
+
+
 2. scrape_mars.py: Python script that uses the parsing methods from the Jupyter Notebook that returns a dictionary object to be inserted into 
    MongoDB. The script is in the repository.
+   
+ <img width="852" alt="sc" src="https://user-images.githubusercontent.com/84547558/158767116-61c14092-46c2-42bc-8f7b-b732f4d4805a.png">
+
+   
 
 3. app.py: Python Flask app that loads the Index.html as a template and runs the scrape_mars.py parsing script and loads the parsed info through
    MongoDB to be used by the template. The script is in the repository.
 
+![app](https://user-images.githubusercontent.com/84547558/158767394-292c1574-12fb-43cf-a28e-10820917325c.png)
+
+
 4. Index.html: HTML page that displays the information parsed through various Mars websites and creates a dashboard of information.
    Styled using Bootstrap. The script is in the repository.
+   
+![htm](https://user-images.githubusercontent.com/84547558/158767938-1b690459-08e7-49a9-8de3-e2c1ad111d9b.png)
+
 
 # Results
 
