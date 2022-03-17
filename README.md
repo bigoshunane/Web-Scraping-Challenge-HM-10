@@ -30,26 +30,27 @@ The main objective of this project is to develop web application that scrapes di
 
 1. mission_to_mars.ipynb: Jupyter Notebook that performs the initial scraping of each site. The script is in repository.
 
-![dd](https://user-images.githubusercontent.com/84547558/158766829-8395d10a-ae1e-4cd2-9eb3-63ae6db5af70.png)
+![1](https://user-images.githubusercontent.com/84547558/158886604-19ce56b8-8a24-475f-9204-c44d1ef38345.png)
+
 
 
 2. scrape_mars.py: Python script that uses the parsing methods from the Jupyter Notebook that returns a dictionary object to be inserted into 
    MongoDB. The script is in the repository.
    
-![ff](https://user-images.githubusercontent.com/84547558/158883000-456fd56d-37b3-4e22-8f5f-5e6dac95206b.png)
-
+![2](https://user-images.githubusercontent.com/84547558/158886639-c56eab3e-9cf0-4c4b-a0c2-e862cea97bc3.png)
    
 
 3. app.py: Python Flask app that loads the Index.html as a template and runs the scrape_mars.py parsing script and loads the parsed info through
    MongoDB to be used by the template. The script is in the repository.
 
-![app](https://user-images.githubusercontent.com/84547558/158883058-08222389-9a10-4aa2-9004-a53a598a9478.png)
+![3](https://user-images.githubusercontent.com/84547558/158886677-fe02b8a7-2ba1-448a-ba61-b37ff9ff34b5.png)![31](https://user-images.githubusercontent.com/84547558/158886707-beb27cca-36d3-4533-986b-6dfa4c6d9577.png)
 
 
 4. Index.html: HTML page that displays the information parsed through various Mars websites and creates a dashboard with Mars Facts information.
    Styled using Bootstrap. The script is in the repository.
    
-![index](https://user-images.githubusercontent.com/84547558/158883279-589d0a02-fee4-41bf-b241-f80e32175ea0.png)
+![4](https://user-images.githubusercontent.com/84547558/158886751-8be2cc4e-805b-4231-91dd-ea04089425fd.png)![41](https://user-images.githubusercontent.com/84547558/158886787-5a1c88d6-eff5-4f58-84d1-1c1b44ba5481.png)
+
 
 Final dashboard with Mars Facts information.
 
