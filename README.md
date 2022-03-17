@@ -54,8 +54,8 @@ The main objective of this project is to develop web application that scrapes di
 
 Final dashboard with information.
 
-![1](https://user-images.githubusercontent.com/84547558/158768455-8a4030f1-c8a1-4c29-9e7e-1419e6786a11.png)
-![2](https://user-images.githubusercontent.com/84547558/158768502-9f72ac13-f845-4ce0-953f-430b28bf8a2b.png)
+![127 0 0 1_5000_](https://user-images.githubusercontent.com/84547558/158774027-f6538dcc-df89-44b8-8451-e1f8e14f7d50.png)
+
 
 
 Rubric
