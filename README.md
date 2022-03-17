@@ -64,8 +64,7 @@ Mars Hemispheres:
 Final dashboard with Mars Facts information:
 
 
-![dd](https://user-images.githubusercontent.com/84547558/158882647-8e4c2ddb-bc6e-4d44-9c03-6985b8a15c0a.png)
-
+![das](https://user-images.githubusercontent.com/84547558/158888527-8fab4ec0-24f5-464f-a160-cb94041f2a87.png)
 
 
 Rubric
