@@ -59,9 +59,9 @@ Mars Hemispheres:
 
 ![4](https://user-images.githubusercontent.com/84547558/158887802-3e5144a9-a07c-4b16-885f-f4b321e7f6c2.png)![41](https://user-images.githubusercontent.com/84547558/158887818-307aea47-40b7-4eaf-9c35-8151ffc68072.png)
 
+2. MongoDB and Flask Application
 
-
-Final dashboard with Mars Facts information.
+Final dashboard with Mars Facts information:
 
 
 ![dd](https://user-images.githubusercontent.com/84547558/158882647-8e4c2ddb-bc6e-4d44-9c03-6985b8a15c0a.png)
