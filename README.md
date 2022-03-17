@@ -49,8 +49,7 @@ The main objective of this project is to develop web application that scrapes di
 4. Index.html: HTML page that displays the information parsed through various Mars websites and creates a dashboard of information.
    Styled using Bootstrap. The script is in the repository.
    
-![htm](https://user-images.githubusercontent.com/84547558/158767938-1b690459-08e7-49a9-8de3-e2c1ad111d9b.png)
-
+![index](https://user-images.githubusercontent.com/84547558/158883279-589d0a02-fee4-41bf-b241-f80e32175ea0.png)
 
 Final dashboard with information.
 
