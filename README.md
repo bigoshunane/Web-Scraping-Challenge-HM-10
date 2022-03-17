@@ -26,7 +26,7 @@ The main objective of this project is to develop web application that scrapes di
 
 . [https://marshemispheres.com/]()
 
-# Steps used
+# Steps and Results:
 
 1. mission_to_mars.ipynb: Jupyter Notebook that performs the initial scraping of each site. The script is in repository.
 
@@ -52,8 +52,11 @@ The main objective of this project is to develop web application that scrapes di
 ![htm](https://user-images.githubusercontent.com/84547558/158767938-1b690459-08e7-49a9-8de3-e2c1ad111d9b.png)
 
 
-# Results
+Final dashboard with information.
 
+![1](https://user-images.githubusercontent.com/84547558/158768455-8a4030f1-c8a1-4c29-9e7e-1419e6786a11.png)
+
+![2](https://user-images.githubusercontent.com/84547558/158768502-9f72ac13-f845-4ce0-953f-430b28bf8a2b.png)
 
 
 
