@@ -41,7 +41,7 @@ The main objective of this project is to develop web application that scrapes di
    
 ## Results
 
-1. Scraping
+### 1. Scraping
 
 Nasa Mars News:
 
@@ -59,7 +59,7 @@ Mars Hemispheres:
 
 ![4](https://user-images.githubusercontent.com/84547558/158887802-3e5144a9-a07c-4b16-885f-f4b321e7f6c2.png)![41](https://user-images.githubusercontent.com/84547558/158887818-307aea47-40b7-4eaf-9c35-8151ffc68072.png)
 
-2. MongoDB and Flask Application
+### 2. MongoDB and Flask Application
 
 Final dashboard with Mars Facts information:
 
