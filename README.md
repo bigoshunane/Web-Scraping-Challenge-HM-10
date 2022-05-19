@@ -1,23 +1,22 @@
-# Web-Scraping-Challenge-HM-10
+# Web-Scraping-Mission to Mars
 
-# Mission to Mars
+## Background 
+In this assignment, you will build a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page. 
+
+## Objective
 
 The main objective of this project is to develop web application that scrapes different websites to scrape the latest information, news headlines and images of planet Mars and display the information gathered in a single responsive HTML webpage. 
 
 
-# Technologies used:
+## Technologies used:
 
-. Beautiful soup and splinter for scraping the target data from given websites.
+-  Beautiful soup and splinter for scraping the target data from given websites.
+-  HTML and Bootstrap (CSS) for designing and styling the webpage.
+-  Flask for building the web application.
+-  PyMongo for interacting with the Mongo Database and store gathered data for CRUD application of the database.
+-  Pandas for designing the Mars Facts table.
 
-. HTML and Bootstrap (CSS) for designing and styling the webpage.
-
-. Flask for building the web application.
-
-. PyMongo for interacting with the Mongo Database and store gathered data for CRUD application of the database.
-
-. Pandas for designing the Mars Facts table.
-
-# Resources used:
+## Resources used:
 
 . [https://redplanetscience.com/]()
 
@@ -27,7 +26,7 @@ The main objective of this project is to develop web application that scrapes di
 
 . [https://marshemispheres.com/]()
 
-# Steps
+## Steps
 
 1. mission_to_mars.ipynb: Jupyter Notebook that performs the initial scraping of each site. The script is in repository.
 
@@ -40,7 +39,7 @@ The main objective of this project is to develop web application that scrapes di
 4. Index.html: HTML page that displays the information parsed through various Mars websites and creates a dashboard with Mars Facts information.
    Styled using Bootstrap. The script is in the repository.
    
-# Results
+## Results
 
 1. Scraping
 
