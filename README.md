@@ -67,7 +67,6 @@ Final dashboard with Mars Facts information:
 ![das](https://user-images.githubusercontent.com/84547558/158888527-8fab4ec0-24f5-464f-a160-cb94041f2a87.png)
 
 
-Rubric
-Unit 12 Rubric - Web Scraping Homework - Mission to Mars
+
 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
